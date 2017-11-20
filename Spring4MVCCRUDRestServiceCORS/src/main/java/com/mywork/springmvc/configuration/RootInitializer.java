@@ -6,7 +6,7 @@ import javax.servlet.Filter;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-public class HelloWorldInitializer extends AbstractAnnotationConfigDispatcherServletInitializer
+public class RootInitializer extends AbstractAnnotationConfigDispatcherServletInitializer
 {
 
     @Override
